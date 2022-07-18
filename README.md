@@ -4,7 +4,7 @@
 - I’m currently learning and mastering `Java`, `C#`, `Linux (including BASH)`, `Networking` and `Databases`
 - Fell free to contact me via e-mail visible at my profile
 
-[LinkedIn](https://www.linkedin.com/in/oskar-migowski-40a70222b/ "MY LinkedIn page")
+## [Hey! Check out my LinkedIn profile!](https://www.linkedin.com/in/oskar-migowski-40a70222b/ "MY LinkedIn page")
 
 <!---
 FejKer/FejKer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
