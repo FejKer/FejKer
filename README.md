@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **o.migowski@protonmail.com**
 
-<!-- 📄 Know about my experiences [https://omigo.me/resume.pdf](https://omigo.me/resume.pdf)
+<!-- 📄 Know about my experiences [https://omigo.me/resume.pdf](https://omigo.me/resume.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
